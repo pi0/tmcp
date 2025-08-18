@@ -1,5 +1,11 @@
 # @tmcp/transport-sse
 
+## 0.2.6
+
+### Patch Changes
+
+- 65b88fc: fix: remove unneded `streams` map
+
 ## 0.2.5
 
 ### Patch Changes

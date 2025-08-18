@@ -1,5 +1,11 @@
 # @tmcp/transport-http
 
+## 0.5.5
+
+### Patch Changes
+
+- 65b88fc: fix: remove unneded `streams` map
+
 ## 0.5.4
 
 ### Patch Changes
